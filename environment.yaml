@@ -1,4 +1,4 @@
-name: dalle-mini-test
+name: dalle-mini
 channels:
   - conda-forge
   - defaults
